@@ -17,23 +17,6 @@ header, nav, section, aside{
     
 }
 
-/* nav{    margin-top: 20px;
-        background-color: #ebebeb;
-
-        text-align: center;
-        padding: 25px;
-
-}
-
-section{
-
-        text-align: center;
-        color: #ebebeb
-
-
-
-} */
-
 section {
     display: block;
     float: left;
